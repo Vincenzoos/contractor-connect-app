@@ -1,0 +1,82 @@
+/* Main Styling for Public Pages */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Hero Sections for Home, About, and Services Pages */
+.hero, .about-hero, .services-hero {
+    background-color: #e0e0e0;
+    padding: 50px 20px;
+    text-align: center;
+}
+.hero h1, .about-hero h1, .services-hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+.hero p, .about-hero p, .services-hero p {
+    max-width: 700px;
+    margin: 0 auto;
+    font-size: 1.2em;
+    color: #666;
+}
+.hero .btn, .about-hero .btn, .services-hero .btn {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+/* Feature and Details Sections */
+.features-section, .about-details, .service-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 20px;
+    background-color: #f5f5f5;
+}
+.features-section .text, .features-section .image,
+.about-details .text, .about-details .image,
+.service-details .text, .service-details .image {
+    width: 48%;
+}
+
+/* Key Features */
+.features, .about-features, .feature-section {
+    padding: 40px 20px;
+    background-color: #ffffff;
+    text-align: center;
+}
+.features h2, .about-features h2, .feature-section h2 {
+    margin-bottom: 20px;
+}
+.feature-box {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+.feature-box img {
+    margin-right: 20px;
+}
+
+/* Metrics Section */
+.metrics {
+    display: flex;
+    justify-content: space-around;
+    background-color: #e0e0e0;
+    padding: 20px 0;
+    text-align: center;
+}
+.metrics .metric {
+    font-size: 2em;
+}
+
+/* Clients Section */
+.clients, .clients-section {
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 40px 20px;
+}
+

@@ -1,0 +1,51 @@
+id,name,description,management_tool_link,deadline,last_checked_date,is_completed,contractor_id,organisation_id
+1,Alpha Initiative,First phase of the new system development,http://pmtool.example.com/alpha,2024-10-15,2024-09-01,0,7,3
+2,Beta Rollout,Second phase implementation,http://pmtool.example.com/beta,2024-11-01,2024-09-05,0,15,6
+3,Client Migration,Migrate clients to the new platform,http://pmtool.example.com/migration,2024-12-01,2024-09-10,0,12,2
+4,Data Analytics,Develop data analytics tools,http://pmtool.example.com/analytics,2024-10-30,2024-09-12,1,5,1
+5,Employee Training,Training for new system users,http://pmtool.example.com/training,2024-11-15,2024-09-15,0,19,8
+6,Feature Update,Update key features in the application,http://pmtool.example.com/feature-update,2024-12-15,2024-09-18,0,9,4
+7,Security Audit,Conduct a security audit,http://pmtool.example.com/security,2024-10-20,2024-09-20,1,1,12
+8,Infrastructure Upgrade,Upgrade server infrastructure,http://pmtool.example.com/infrastructure,2024-11-30,2024-09-22,0,14,7
+9,Market Research,Research for new market opportunities,http://pmtool.example.com/market-research,2024-12-10,2024-09-25,0,6,11
+10,Customer Feedback,Analyze customer feedback and make improvements,http://pmtool.example.com/feedback,2024-10-25,2024-09-27,1,11,16
+11,Sales Dashboard,Create a new sales dashboard,http://pmtool.example.com/sales-dashboard,2024-10-05,2024-09-28,0,3,19
+12,Product Launch,Launch the new product,http://pmtool.example.com/product-launch,2024-11-10,2024-09-30,0,2,5
+13,User Experience,Improve user experience based on feedback,http://pmtool.example.com/ux-improvement,2024-12-05,2024-10-01,0,20,9
+14,Tech Support,Enhance tech support services,http://pmtool.example.com/tech-support,2024-10-15,2024-10-02,0,13,14
+15,Data Migration,Migrate historical data to new system,http://pmtool.example.com/data-migration,2024-11-05,2024-10-04,0,10,18
+16,API Integration,Integrate new APIs,http://pmtool.example.com/api-integration,2024-12-01,2024-10-07,0,8,20
+17,Client Onboarding,Onboard new clients,http://pmtool.example.com/client-onboarding,2024-10-20,2024-10-10,1,18,15
+18,Performance Tuning,Tune application performance,http://pmtool.example.com/performance-tuning,2024-11-20,2024-10-12,0,4,2
+19,Backup System,Implement new backup system,http://pmtool.example.com/backup-system,2024-12-20,2024-10-15,0,16,6
+20,Compliance Check,Ensure compliance with new regulations,http://pmtool.example.com/compliance,2024-10-25,2024-10-17,1,17,4
+21,Mobile App,Develop a mobile application,http://pmtool.example.com/mobile-app,2024-11-30,2024-10-20,0,22,10
+22,Customer Portal,Build a new customer portal,http://pmtool.example.com/customer-portal,2024-12-15,2024-10-22,0,21,7
+23,Internal Audit,Conduct an internal audit,http://pmtool.example.com/internal-audit,2024-10-10,2024-10-25,1,15,11
+24,Website Redesign,Redesign the company website,http://pmtool.example.com/website-redesign,2024-11-10,2024-10-27,0,9,12
+25,Vendor Management,Improve vendor management processes,http://pmtool.example.com/vendor-management,2024-12-01,2024-10-30,0,4,13
+26,Staff Recruitment,Recruit new staff members,http://pmtool.example.com/staff-recruitment,2024-10-15,2024-11-01,0,6,18
+27,Product Update,Update existing products,http://pmtool.example.com/product-update,2024-11-20,2024-11-03,0,13,14
+28,Client Feedback,Collect and analyze client feedback,http://pmtool.example.com/client-feedback,2024-12-10,2024-11-05,0,11,6
+29,Server Maintenance,Perform server maintenance,http://pmtool.example.com/server-maintenance,2024-10-30,2024-11-07,1,20,9
+30,Software Upgrade,Upgrade the core software,http://pmtool.example.com/software-upgrade,2024-11-15,2024-11-10,0,7,3
+31,HR System,Implement new HR system,http://pmtool.example.com/hr-system,2024-12-01,2024-11-12,0,15,1
+32,Data Analysis,Analyze current data trends,http://pmtool.example.com/data-analysis,2024-10-25,2024-11-15,1,19,8
+33,CRM Integration,Integrate with new CRM,http://pmtool.example.com/crm-integration,2024-11-30,2024-11-18,0,8,13
+34,Event Planning,Plan and execute company events,http://pmtool.example.com/event-planning,2024-12-10,2024-11-20,0,14,17
+35,Employee Wellness,Develop employee wellness programs,http://pmtool.example.com/wellness,2024-10-15,2024-11-22,0,2,12
+36,Data Security,Enhance data security measures,http://pmtool.example.com/data-security,2024-11-05,2024-11-25,1,10,4
+37,API Development,Develop new APIs,http://pmtool.example.com/api-development,2024-12-15,2024-11-27,0,16,7
+38,Client Support,Improve client support services,http://pmtool.example.com/client-support,2024-10-20,2024-12-01,0,21,18
+39,Training Materials,Create training materials,http://pmtool.example.com/training-materials,2024-11-10,2024-12-05,1,6,16
+40,Employee Onboarding,Improve employee onboarding process,http://pmtool.example.com/employee-onboarding,2024-12-01,2024-12-07,0,12,2
+41,IT Infrastructure,Upgrade IT infrastructure,http://pmtool.example.com/it-infrastructure,2024-10-15,2024-12-10,0,13,5
+42,Customer Support,Enhance customer support capabilities,http://pmtool.example.com/customer-support,2024-11-25,2024-12-12,1,17,10
+43,Product Documentation,Update product documentation,http://pmtool.example.com/product-docs,2024-12-10,2024-12-15,0,9,12
+44,Vendor Integration,Integrate with new vendors,http://pmtool.example.com/vendor-integration,2024-10-20,2024-12-18,0,14,19
+45,Compliance Training,Provide compliance training,http://pmtool.example.com/compliance-training,2024-11-15,2024-12-20,0,20,6
+46,Website Maintenance,Perform website maintenance,http://pmtool.example.com/website-maintenance,2024-12-01,2024-12-22,1,11,13
+47,Marketing Campaign,Execute new marketing campaign,http://pmtool.example.com/marketing-campaign,2024-10-30,2024-12-25,0,15,2
+48,Client Retention,Develop client retention strategies,http://pmtool.example.com/client-retention,2024-11-05,2024-12-27,0,18,9
+49,Technology Assessment,Assess new technology trends,http://pmtool.example.com/technology-assessment,2024-12-15,2024-12-30,0,5,16
+50,Strategic Planning,Plan for the next fiscal year,http://pmtool.example.com/strategic-planning,2024-10-25,2024-12-31,1,2,11
