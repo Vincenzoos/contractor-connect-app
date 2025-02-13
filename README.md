@@ -1,3 +1,8 @@
+# TODO:
+- Add UI prototype and presentation to show the rationale behind the design
+- Add a description of the app, its features, tech stack used, etc.
+- Add real images of the app to showcase its functionalities
+
 # Authors:
 - Viet Quoc Tran (33810672) - email:vtra0041@student.monash.edu - submission date: 1/11/2024
 - Jiahuan He (31492185) - email: - jhee0074@student.monash.edu submission date: 1/11/2024
