@@ -4,8 +4,8 @@ A web application that enables organizations to outsource contractors for their 
 ---
 
 # Authors
-- Viet Quoc Tran (33810672) - vtra0041@student.monash.edu
-- Jiahuan He (31492185) - jhee0074@student.monash.edu
+- Viet Quoc Tran - vtra0041@student.monash.edu
+- Jiahuan He - jhee0074@student.monash.edu
 - Submission Date: 01/11/2024
 ---
 
