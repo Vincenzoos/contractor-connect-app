@@ -75,7 +75,7 @@ _Note: this account is for demonstration purposes only._
 ---
 
 # Application Screenshots
-- Landing pages
+## Landing pages
   - Homepage
   ![Home Page](docs/app_screenshots/public_page/homepage.png)
 
@@ -85,7 +85,7 @@ _Note: this account is for demonstration purposes only._
   - Service
     ![Service](docs/app_screenshots/public_page/service_page.png)
 
-- Authentication
+## Authentication
   - Staff Login
     ![login](docs/app_screenshots/public_page/login_page.png)
 
@@ -95,7 +95,7 @@ _Note: this account is for demonstration purposes only._
   - Organisation Registration
     ![Organisation Registration](docs/app_screenshots/public_page/organisation_registration_page.png)
 
-- Project Management
+## Project Management
   - Project Listing
     ![Project Listing](docs/app_screenshots/private_page/project_listing_page.png)
 
@@ -114,7 +114,7 @@ _Note: this account is for demonstration purposes only._
   - Project Deleting
     ![Project Delete](docs/app_screenshots/private_page/project_delete_page.png)
 
-- Contractors Management
+## Contractors Management
   - Contractor Listing
       ![Project Listing](docs/app_screenshots/private_page/contractor_listing_page.png)
 
@@ -133,7 +133,7 @@ _Note: this account is for demonstration purposes only._
   - Contractor Deleting
     ![Contractor Delete](docs/app_screenshots/private_page/contractor_delete_page.png)
 
-- Organisation Management
+## Organisation Management
   - Organisation Listing
     ![Organisation Listing](docs/app_screenshots/private_page/organisation_listing_page.png)
 
@@ -152,7 +152,7 @@ _Note: this account is for demonstration purposes only._
   - Organisation Deleting
     ![Organisation Delete](docs/app_screenshots/private_page/organisation_delete_page.png)
 
-- Contacts Management
+## Contacts Management
   - Contact listing
       ![Contact Listing](docs/app_screenshots/private_page/contact_listing_page.png)
 
@@ -174,20 +174,20 @@ _Note: this account is for demonstration purposes only._
 ---
 
 # Application Installation
-- Prerequisite:
+- ## Prerequisite:
   - 🔹 Install XAMPP
   - 🔹 Install PHPStorm
   - 🔹 Install CakePHP
 
-- Installation Steps
-  1. Set Up XAMPP
+- ## Installation Steps
+  1. **Set Up XAMPP**
      - Run XAMPP as an administrator.
      - Start Apache and MySQL.
 
-  2. Create a user in phpMyAdmin
+  2. **Create a user in phpMyAdmin**
       - Follow instruction here: https://youtu.be/6mOA53bR_B8?feature=shared
 
-  3. Database Configuration
+  3. **Database Configuration**
      - Create a new database with:
        - Database Name: username_databasename
        - Collation: utf8mb4_general_ci
@@ -195,7 +195,7 @@ _Note: this account is for demonstration purposes only._
      - Ensure foreign key checks are disabled before importing.
      ![Schema Import](docs/erd/schema_import.png)
 
-  4. Clone & Deploy the Application
+  4. **Clone & Deploy the Application**
      - Clone the repository inside the htdocs folder.
      - Access the app via: http://localhost/your_folder_name
 
